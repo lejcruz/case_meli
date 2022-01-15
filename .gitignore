@@ -1,0 +1,11 @@
+# VS Code
+.vscode/
+
+# miscelaneous files
+misc/
+
+# ignore all csv files
+*.csv
+
+#Virtual Environment
+venv/
